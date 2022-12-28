@@ -12,6 +12,7 @@
 }
 a{
   background-color:white;
+  color: inherit;
 }
   .navbar-brand {
     font-family: "Ubuntu";
